@@ -1,24 +1,117 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Frontend Development & daily DSA practice.<br><br>👯 I’m looking to collaborate on<br>Open-source frontend projects and JavaScript-based web apps.<br><br>🤝 I’m looking for help with<br>Advanced React concepts, API integration, and optimizing UI/UX.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, React.js, and modern JavaScript.<br><br>💬 Ask me about<br>CPP programming, JavaScript, frontend development, UI design, and DSA concepts.<br><br>⚡ Fun fact<br>I can debug faster than I can cook noodles 😄
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pranab%20Kumar%20Panda&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Learning%20Backend%20%7C%20DSA%20in%20C%2B%2B&descAlignY=58&descSize=18" alt="header" />
+</p>
 
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Building+clean+and+fast+user+interfaces;Learning+backend+with+Node.js+and+Express;Practicing+DSA+in+C%2B%2B+every+day;Open+to+open-source+collaboration" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_pranab_o/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranab-kumar-panda-3a250124b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranabkumarpanda20@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranab-kumar-Panda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pranab-kumar-Panda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab-kumar-Panda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pranab-kumar-Panda&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.instagram.com/_pranab_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/pranab-kumar-panda-3a250124b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pranabkumarpanda20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranab-kumar-Panda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+Hi, I am Pranab Kumar Panda, a frontend developer who is growing into a full-stack developer. I enjoy turning ideas and designs into fast, clean and responsive web applications, and I care a lot about how an interface feels to the person using it.
+
+My main strength is the frontend. I build interfaces with React, JavaScript, HTML, CSS and Tailwind CSS, and I also work with Figma and Photoshop, so I understand design as well as code. I am comfortable with components, state management, responsive layouts and turning a design file into a working page.
+
+On the backend side, I am actively learning and building my skills with Node.js, Express and MySQL. I already know how to set up a server, create routes and connect an app to a database, and I am getting better at API design and integration every week. My goal is to be able to build a complete project on my own, from the database to the user interface.
+
+I also write C++ and practice Data Structures and Algorithms daily. It keeps my problem-solving sharp, and it helps me write better and more efficient code in every language I use.
+
+I learn best by building things, breaking them, and then debugging them. If you want to know more about my journey, or just want to talk about code, feel free to reach out.
+
+---
+
+## What I Am Doing Right Now
+
+- Building frontend projects with React and Tailwind CSS
+- Learning backend development with Node.js, Express and MySQL
+- Solving DSA problems in C++ every day
+- Improving my understanding of advanced React concepts and API integration
+
+## What I Am Looking For
+
+- **Collaboration:** open-source frontend projects and JavaScript-based web apps
+- **Help with:** advanced React concepts, API integration, and optimizing UI/UX
+- **Ask me about:** C++, JavaScript, React, frontend development, UI design and DSA
+
+## Fun Fact
+
+I can debug faster than I can cook noodles.
+
+---
+
+## Skills
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend skills" />
+</p>
+
+### Backend (currently learning)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend skills" />
+</p>
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" alt="Languages" />
+</p>
+
+### Design and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,ps,lr,vscode,postman" alt="Tools" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranab-kumar-Panda/Pranab-kumar-Panda/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranab-kumar-Panda/Pranab-kumar-Panda/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Pranab-kumar-Panda/Pranab-kumar-Panda/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranab-kumar-Panda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab-kumar-Panda&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pranab-kumar-Panda&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranab-kumar-Panda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+</p>
