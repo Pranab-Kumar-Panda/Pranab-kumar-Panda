@@ -73,7 +73,7 @@ I learn best by building things, breaking them, and then debugging them. If you 
 </p>
 
 
-## GitHub Stats
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranab-kumar-Panda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
