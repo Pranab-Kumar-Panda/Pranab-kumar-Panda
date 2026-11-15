@@ -76,21 +76,6 @@ I learn best by building things, breaking them, and then debugging them. If you 
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranab-kumar-Panda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranab-kumar-Panda&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pranab-kumar-Panda&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranab-kumar-Panda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote" />
 </p>
 
