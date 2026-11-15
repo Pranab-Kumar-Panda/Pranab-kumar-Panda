@@ -22,22 +22,15 @@
 
 Hi, I am Pranab Kumar Panda, a frontend developer who is growing into a full-stack developer. I enjoy turning ideas and designs into fast, clean and responsive web applications, and I care a lot about how an interface feels to the person using it.
 
-My main strength is the frontend. I build interfaces with React, JavaScript, HTML, CSS and Tailwind CSS, and I also work with Figma and Photoshop, so I understand design as well as code. I am comfortable with components, state management, responsive layouts and turning a design file into a working page.
+My main strength is the frontend. I build interfaces with React, JavaScript, HTML, CSS and Tailwind CSS. I am comfortable with components, state management, responsive layouts and turning a design file into a working page.
 
 On the backend side, I am actively learning and building my skills with Node.js, Express, MySQL and MongoDB. I already know how to set up a server, create routes and connect an app to a database, and I am getting better at API design and integration every week. My goal is to be able to build a complete project on my own, from the database to the user interface.
 
-I also write C++ and practice Data Structures and Algorithms daily. It keeps my problem-solving sharp, and it helps me write better and more efficient code in every language I use.
+I also write C++ and practice Data Structures and Algorithms daily. 
 
 I learn best by building things, breaking them, and then debugging them. If you want to know more about my journey, or just want to talk about code, feel free to reach out.
 
 ---
-
-## What I Am Doing Right Now
-
-- Building frontend projects with React and Tailwind CSS
-- Learning backend development with Node.js, Express, MySQL and MongoDB
-- Solving DSA problems in C++ every day
-- Improving my understanding of advanced React concepts and API integration
 
 ## What I Am Looking For
 
