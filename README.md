@@ -44,11 +44,6 @@ I learn best by building things, breaking them, and then debugging them. If you 
 - **Collaboration:** open-source frontend projects and JavaScript-based web apps
 - **Help with:** advanced React concepts, API integration, and optimizing UI/UX
 - **Ask me about:** C++, JavaScript, React, frontend development, UI design and DSA
-
-## Fun Fact
-
-I can debug faster than I can cook noodles.
-
 ---
 
 ## Skills
@@ -77,19 +72,6 @@ I can debug faster than I can cook noodles.
   <img src="https://skillicons.dev/icons?i=git,github,figma,ps,lr,vscode,postman" alt="Tools" />
 </p>
 
----
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranab-kumar-Panda/Pranab-kumar-Panda/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranab-kumar-Panda/Pranab-kumar-Panda/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Pranab-kumar-Panda/Pranab-kumar-Panda/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
 
 ## GitHub Stats
 
